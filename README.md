@@ -1,3 +1,5 @@
+### deployed app can be found here: https://workit-orange.firebaseapp.com
+
 ### how to run backend on your local machine
 
 1. go into the workit-back folder
