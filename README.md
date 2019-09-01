@@ -1,5 +1,3 @@
-### deployed app can be found here: https://workit-orange.firebaseapp.com
-
 ### how to run backend on your local machine
 
 1. go into the workit-back folder
@@ -11,6 +9,11 @@
 4. `pip install -r requirements.txt`
 
 5. `python app.py`
+
+### demo 
+1. Navigate to: https://workit-orange.firebaseapp.com
+2. Log in as "amy"
+3. Select "Whole Body Workout" on the "Your Routines" page
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
